@@ -1,5 +1,5 @@
 -------------------------------------------------------------------------
--- Group members：Qiulin Zhang, Zhuoling Chen, Sangyeon Lee, Ingyu Woo  
+ 
 -- CS 381, Spring 2018                                                  
 -- Homework 1 (Abstract Syntax)                                        
 -- Due：April 26, 2018，2pm                                             

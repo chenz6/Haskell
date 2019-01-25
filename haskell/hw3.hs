@@ -1,5 +1,4 @@
 -------------------------------------------------------------------------
--- Group members：Qiulin Zhang, Zhuoling Chen, Sangyeon Lee, Ingyu Woo  
 -- CS 381, Spring 2018                                                  
 -- Homework 3 (Types)                                        
 -- Due：May 15, 2018，2pm                                             

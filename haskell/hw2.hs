@@ -1,5 +1,5 @@
 -------------------------------------------------------------------------
--- Group members：Qiulin Zhang, Zhuoling Chen, Sangyeon Lee, Ingyu Woo  
+
 -- CS 381, Spring 2018                                                  
 -- Homework 2 (Semantics)                                        
 -- Due：May 3, 2018，2pm                                             

@@ -1,5 +1,5 @@
 -------------------------------------------------------------------------
--- Group members：Qiulin Zhang, Zhuoling Chen, Sangyeon Lee, Ingyu Woo  
+
 -- CS 381, Spring 2018                                                  
 -- Homework 4 (Runtime Stack, Scoping, Parameter Passing)                                        
 -- Due：May 24, 2018，2pm                                             
